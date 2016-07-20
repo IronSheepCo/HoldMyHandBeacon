@@ -1,0 +1,105 @@
+###RTT Client: ************************************************************ 
+###RTT Client: *           SEGGER MICROCONTROLLER GmbH & Co KG            * 
+###RTT Client: *   Solutions for real time microcontroller applications   * 
+###RTT Client: ************************************************************ 
+###RTT Client: *                                                          * 
+###RTT Client: *  (c) 2012 - 2014  SEGGER Microcontroller GmbH & Co KG    * 
+###RTT Client: *                                                          * 
+###RTT Client: *     www.segger.com     Support: support@segger.com       * 
+###RTT Client: *                                                          * 
+###RTT Client: ************************************************************ 
+###RTT Client: *                                                          * 
+###RTT Client: * SEGGER J-Link RTT Client   Compiled Nov  6 2015 19:02:11 * 
+###RTT Client: *                                                          * 
+###RTT Client: ************************************************************ 
+
+###RTT Client: -----------------------------------------------
+###RTT Client: Connecting to J-Link RTT Server via localhost:19021  Connected.
+SEGGER J-Link V5.02j - Real time terminal output
+SEGGER J-Link EDU V9.3, SN=269304469
+Process: 
+ble stack init
+running on s130 stack 
+device manager init 
+error code for dm_register 0
+started scanning
+start scan error code 0
+hash to address 219 -12901
+Found new beacon hash: -12901, tx_power: -63, pos_x: 57,  pos_y: 17
+i1 and i2 -25786 25475 25308 -25617 
+current position x:-4973, y:4767
+hash to address 177 19316
+Found new beacon hash: 19316, tx_power: -60, pos_x: 0,  pos_y: 235
+hash to address 219 -12901
+i1 and i2 326 -24899 326 22871 
+increasing radius 45
+current position x:-3654, y:-1231
+hash to address 177 19316
+hash to address 40 31102
+Found new beacon hash: 31102, tx_power: -73, pos_x: 300,  pos_y: 400
+increasing radius 188
+i1 and i2 30 237 -26 223 
+increasing radius 136
+increasing radius 224
+current position x:136, y:289
+hash to address 219 -12901
+increasing radius 163
+i1 and i2 30 237 -26 223 
+increasing radius 136
+increasing radius 224
+current position x:136, y:289
+hash to address 219 -12901
+increasing radius 145
+i1 and i2 30 237 -26 223 
+increasing radius 136
+increasing radius 224
+hash to address 40 31102
+hash to address 177 19316
+i1 and i2 114 -24088 114 23682 
+current position x:88, y:8105
+hash to address 40 31102
+hash to address 177 19316
+i1 and i2 201 8 -65 -60 
+current position x:115, y:42
+hash to address 40 31102
+hash to address 177 19316
+i1 and i2 165 -80 9 -120 
+current position x:39, y:147
+hash to address 40 31102
+hash to address 177 19316
+i1 and i2 100 -24033 100 23737 
+current position x:76, y:8111
+hash to address 40 31102
+hash to address 177 19316
+i1 and i2 200 39 -80 -33 
+current position x:106, y:56
+hash to address 40 31102
+hash to address 177 19316
+i1 and i2 195 -30 -41 -90 
+current position x:18, y:147
+hash to address 40 31102
+hash to address 177 19316
+i1 and i2 100 -24033 100 23737 
+current position x:37, y:8082
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 195 -30 -41 -90 
+current position x:85, y:-5
+hash to address 219 -12901
+hash to address 40 31102
+i1 and i2 195 -30 -41 -90 
+increasing radius 51
+current position x:80, y:201
+hash to address 219 -12901
+hash to address 40 31102
+i1 and i2 195 -30 -41 -90 
+increasing radius 51
+current position x:80, y:201
+hash to address 219 -12901
+i1 and i2 195 -30 -41 -90 
+increasing radius 51
+current position x:80, y:201
+hash to address 219 -12901
+i1 and i2 186 -36 -30 -92 
+increasing radius 57
+current position x:84, y:200

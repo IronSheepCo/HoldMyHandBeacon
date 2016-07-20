@@ -1,0 +1,223 @@
+{
+ "type":"menu",
+ "sections":[
+	{
+		"name":"COCKTAILS",
+		"sections":[
+			{
+				"name":"Longs",
+				"items":[
+					{"name":"Gin tonic","price":10},
+					{"name":"Cuba Libre","price":2},
+					{"name":"Screwdriver","price":15},
+					{"name":"Cape Cod","price":12},
+					{"name":"Garibaldi","price":13}
+				]
+			},
+			{
+				"name":"Sours",
+				"items":[
+					{"name":"Whiskey sour","price":2},
+					{"name":"Amaretto sour","price":3},
+					{"name":"Galliano sour","price":4},
+					{"name":"Raspberry Collins","price":12},
+					{"name":"Strawberry Collins","price":23},
+					{"name":"Hugo","price":12.2},
+					{"name":"Aperol Spritz","price":12}
+				]
+			},
+			{
+				"name":"Old fashioned",
+				"items":[
+					{"name":"Margaritas","price":2},
+					{"name":"Daquiri","price":3},
+					{"name":"Martinis","price":4},
+					{"name":"Manhattan","price":12}
+				]
+			}
+		]
+	},
+	{
+		"name":"FINE LIQUERS",
+		"items":[
+			{"name":"Whiskey","price":2},
+			{"name":"Vodka","price":3},
+			{"name":"Gin","price":4},
+			{"name":"Tequila blanco/gold","price":12},
+			{"name":"Vermouth rosso/bianco","price":23},
+			{"name":"Jagermeister","price":12.2},
+			{"name":"Cognac","price":12},
+			{"name":"Aperol","price":2},
+			{"name":"Campari","price":3},
+			{"name":"Cointreau","price":4},
+			{"name":"Rom","price":12}
+		]
+	},
+	{
+		"name":"FOOD",
+		"items":[
+			{"name":"Cheesecake","price":3},
+			{"name":"Cakes","price":4},
+			{"name":"Sandwich","price":12}
+		]
+	},
+	{
+		"name":"COFFEE OF THE WEEK"
+	},
+	{
+		"name":"COCKTAIL OF THE WEEK"
+	},
+	{
+		"name":"WINES",
+		"sections":[
+			{
+				"name":"RED",
+				"items":[
+					{"name":"Karakter","price":2},
+					{"name":"Cabernet Sauvignion 2011","price":3},
+					{"name":"Artisan","price":4},
+					{"name":"Red Artisan 2011","price":12},
+					{"name":"Anima","price":23},
+					{"name":"Grand Reserve Dealu Mare 2011","price":12.2},
+					{"name":"Byzantium","price":12},
+					{"name":"Rosso di Valachia Dealu Mare 2013","price":2},
+					{"name":"Iacob Cabernet S. & Feteasca N 2011","price":3},
+					{"name":"Gatto Nero","price":4},
+					{"name":"Carmenere 2013","price":12},
+					{"name":"Misiones de Rengo","price":23},
+					{"name":"Paul Mas","price":12.2},
+					{"name":"Cabernet Sauvignion-Merlot 2012","price":12},
+					{"name":"Cabernet Sauvignion 2013","price":2},
+					{"name":"Cabernet Sauvignion-Syrah 2012","price":3},
+					{"name":"Cotes du Rhone 2011","price":4},
+					{"name":"Agiorgitiko by Gaia 2013","price":12}
+				]
+			}
+		]
+	},
+	{
+		"name":"CEAIURI",
+		"items":[
+			{"name":"Goji Green","price":2,"desc":"(Ceai verde, goji berry fructe, coaja de portoala, stafide, aroma)"},
+			{"name":"Earl Grey","price":3,"desc":"(Ceai negru, aroma de bergamota)"},
+			{"name":"Fruit Symphony","price":4,"desc":"(Zmeura, mere, petale de trandafir, lemn dulce, hibiscus, morvic, aroma)"},
+			{"name":"Sunshine Dream","price":12,"desc":"(Capsuni, coacaze negre, hibiscus, mere, macese, aroma)"},
+			{"name":"Wild Nights","price":"(Coacaze negre, zmeura, hibiscu, curants, petale de trandafir, mere, lemn dulce, macese, coacaze rosii, aroma)"},
+			{"name":"Hawai Fruits","price":12.2,"desc":"(Ananas, papaya, mango, coaja portocala, hibiscus, macese, stafide, aroma)"},
+			{"name":"Rooibos","price":12,"desc":"sau Red Tea, originar din Africa reprezinta o alternativa fara teina atat in varianta calda cat si rece"},
+			{"name":"Fresh mint","price":2,"desc":"(Menta frunze)"},
+			{"name":"Chamomile","price":3,"desc":"(Musetel flori)"},
+			{"name":"Masala Chai","price":4,"desc":"(Ceai negru, aroma fina de vanilie si miere, bucati de ghimbir, scortisoara, cardamon si cuisoare.)"},
+			{"name":"White peony","price":12,"desc":"(Ceai alb delicat, denumit si Bujorul alb are un parfum subtil de fructe, un gust amplu si impresionant.)"},
+			{"name":"Fructele gradinii","price":23,"desc":"(Zmeura, mere, coji de citrice, hibiscus, macese, aroma naturala, morcii, lemongrass)"},
+			{"name":"Sunshine Dream","price":12.2,"desc":"(Capsuni, coacaze negre, hibiscus, mere, macese, aroma)"},
+			{"name":"Multi fruct Bio","price":12,"desc":"(Capsuni, macese, portocale, lemongrass, aroma naturala, petale de galbenele, mere, coaja de portocale)"},
+			{"name":"Green Tea Sencha","price":2},
+			{"name":"Blooming Tea","price":3},
+			{"name":"Hunag JiaBia He","price":4}
+		]
+	},
+	{
+		"name":"CAFEA",
+		"sections":[
+			{
+				"name":"Just coffee",
+				"items":[
+					{"name":"Espresso","price":1},
+					{"name":"Espresso Doppio","price":2},
+					{"name":"Stropita","price":23},
+					{"name":"Long Black","price":2},
+					{"name":"Americano","price":5}
+				]
+			},
+			{
+				"name":"Milk coffee",
+				"item":[
+					{"name":"Macchiato","price":3},
+					{"name":"Cappucino","price":4.5},
+					{"name":"Moccacino","price":5},
+					{"name":"Flat White","price":3},
+					{"name":"Latte","price":2.8}
+				]
+			}
+		]
+	},
+	{
+		"name":"CIOCOLATA CALDA",
+		"items":[
+			{"name":"Black","price":1},
+			{"name":"White","price":0.5},
+			{"name":"Mint","price":3.3},
+			{"name":"Orange","price":5.6},
+			{"name":"Chilli","price":4.6},
+			{"name":"Caramel","price":5.5}
+		]
+	},
+	{
+		"name":"COFFEE & ALCOHOL",
+		"items":[
+			{"name":"Infinity","price":1},
+			{"name":"Coffetini","price":0.5},
+			{"name":"White Russian","price":3.3},
+			{"name":"After eight","price":5.6},
+			{"name":"Irish coffee","price":4.6},
+			{"name":"Cafe Coretto","price":5.5},
+			{"name":"Marghiloma","price":1}
+		],
+		"sections":[
+			{
+				"name":"Cold coffee beverages & sweets",
+				"items":[
+					{"name":"Ice Latte","price":3},
+					{"name":"Frappe (Greek original)","price":4.5},
+					{"name":"Frape (Fancy edition)","price":5},
+					{"name":"Cold V60","price":3},
+					{"name":"Affogato (espresso & inghetata)","price":2.8},
+					{"name":"Milk Shake","price":3},
+					{"name":"Brewed Coffee","price":4.5},
+					{"name":"V60 02","price":5},
+					{"name":"Chemmex 04","price":3},
+					{"name":"Woodneck","price":2.8},
+					{"name":"Aeropress","price":3},
+					{"name":"Syphon","price":4.5},
+					{"name":"French press","price":5},
+					{"name":"Ibrik","price":3},
+					{"name":"RS 16","price":2.8},
+					{"name":"Black eye coffee","price":3},
+					{"name":"Red eye coffee","price":2.8}
+				]
+			}
+		]
+	},
+	{
+		"name":"HEALTY",
+		"items":[
+			{"name":"Fresh Orange/Grapefruit","price":3},
+			{"name":"Fresh mar/morcov","price":4.5},
+			{"name":"Raw lemonade menta/ghimbir","price":5,"desc":"(fresh lemon, sirop zahar, apa plata/carbogazoasa)"},
+			{"name":"Perky Lemondate","price":3,"desc":"(fresh lemon, sirop zahar, menta/ghimbir)"},
+			{"name":"Spicy Rosemary Lemonade","price":2.8,"desc":"(fresh lemon, sirop zahar, fresh portocale, rozmarin brut,ghimbir, apa minerala)"},
+			{"name":"Hangover Smoothie","price":3,"desc":"(telina, morcov, spanac, fresh lamaie, fresh portocale)"},
+			{"name":"Yellow Berry Smoothie","price":3,"desc":"(banana, capsuni, lapte)"}
+		]
+	},
+	{
+		"name":"FIZZY",
+		"items":[
+			{"name":"Pepsi/Pepsi MAX","price":5.5},
+			{"name":"Apa plata/carbogazoasa","price":6.5},
+			{"name":"Fanta/Seven Up/Kinley","price":6.6},
+			{"name":"Red Bull/Sugarfree","price":10},
+			{"name":"Sonata","price":5.43}
+		]
+	},
+	{
+		"name":"BEER",
+		"items":[
+			{"name":"Zaganu Blond/Dark","price":8.7},
+			{"name":"Corona","price":5.87}
+		]
+	}
+ ]
+}
+

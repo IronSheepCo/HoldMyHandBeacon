@@ -1,0 +1,633 @@
+###RTT Client: ************************************************************ 
+###RTT Client: *           SEGGER MICROCONTROLLER GmbH & Co KG            * 
+###RTT Client: *   Solutions for real time microcontroller applications   * 
+###RTT Client: ************************************************************ 
+###RTT Client: *                                                          * 
+###RTT Client: *  (c) 2012 - 2014  SEGGER Microcontroller GmbH & Co KG    * 
+###RTT Client: *                                                          * 
+###RTT Client: *     www.segger.com     Support: support@segger.com       * 
+###RTT Client: *                                                          * 
+###RTT Client: ************************************************************ 
+###RTT Client: *                                                          * 
+###RTT Client: * SEGGER J-Link RTT Client   Compiled Nov  6 2015 19:02:11 * 
+###RTT Client: *                                                          * 
+###RTT Client: ************************************************************ 
+
+###RTT Client: -----------------------------------------------
+###RTT Client: Connecting to J-Link RTT Server via localhost:19021  Connected.
+SEGGER J-Link V5.02j - Real time terminal output
+SEGGER J-Link EDU V9.3, SN=269304469
+Process: 
+hash to address 177 19316
+i1 and i2 293 531 407 323 
+increasing radius 200
+current position x:198, y:-7870
+hash to address 219 -12901
+i1 and i2 293 531 407 323 
+increasing radius 206
+current position x:197, y:-7873
+hash to address 219 -12901
+i1 and i2 293 531 407 323 
+increasing radius 200
+current position x:198, y:-7870
+hash to address 219 -12901
+i1 and i2 293 531 407 323 
+increasing radius 200
+current position x:198, y:-7870
+hash to address 219 -12901
+i1 and i2 293 531 407 323 
+increasing radius 206
+current position x:197, y:-7873
+hash to address 219 -12901
+i1 and i2 293 531 407 323 
+increasing radius 206
+current position x:197, y:-7873
+hash to address 219 -12901
+i1 and i2 293 531 407 323 
+increasing radius 200
+current position x:198, y:-7870
+hash to address 219 -12901
+i1 and i2 293 531 407 323 
+increasing radius 206
+current position x:197, y:-7873
+hash to address 40 31102
+i1 and i2 293 531 407 323 
+increasing radius 206
+current position x:197, y:-7873
+hash to address 40 31102
+i1 and i2 221 588 417 232 
+increasing radius 133
+current position x:200, y:-7903
+hash to address 40 31102
+i1 and i2 221 588 417 232 
+increasing radius 133
+current position x:200, y:-7903
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 163 553 355 203 
+increasing radius 133
+current position x:182, y:85
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 94 643 394 97 
+current position x:213, y:-7955
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 44 589 322 83 
+current position x:191, y:38
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 250 569 416 267 
+increasing radius 161
+current position x:200, y:-7892
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 146 628 410 148 
+increasing radius 63
+current position x:198, y:-7931
+hash to address 40 31102
+i1 and i2 146 628 410 148 
+increasing radius 63
+current position x:198, y:-7931
+hash to address 219 -12901
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 115 605 373 135 
+increasing radius 63
+current position x:181, y:-7917
+i1 and i2 215 556 385 244 
+increasing radius 161
+current position x:185, y:-7881
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 169 518 329 226 
+increasing radius 161
+current position x:191, y:111
+hash to address 219 -12901
+i1 and i2 169 518 329 226 
+increasing radius 161
+current position x:191, y:111
+hash to address 219 -12901
+i1 and i2 169 518 329 226 
+increasing radius 166
+current position x:187, y:108
+hash to address 219 -12901
+i1 and i2 169 518 329 226 
+increasing radius 161
+current position x:191, y:111
+hash to address 219 -12901
+i1 and i2 169 518 329 226 
+increasing radius 161
+current position x:191, y:111
+hash to address 219 -12901
+i1 and i2 169 518 329 226 
+increasing radius 166
+current position x:187, y:108
+hash to address 219 -12901
+i1 and i2 169 518 329 226 
+increasing radius 166
+current position x:187, y:108
+hash to address 219 -12901
+i1 and i2 169 518 329 226 
+increasing radius 161
+current position x:191, y:111
+hash to address 219 -12901
+i1 and i2 169 518 329 226 
+increasing radius 166
+current position x:187, y:108
+hash to address 40 31102
+i1 and i2 169 518 329 226 
+increasing radius 166
+current position x:187, y:108
+hash to address 40 31102
+i1 and i2 144 533 328 197 
+increasing radius 138
+current position x:187, y:99
+hash to address 177 19316
+i1 and i2 189 572 385 214 
+increasing radius 138
+current position x:184, y:-7893
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 270 510 376 316 
+increasing radius 229
+current position x:181, y:-7859
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 219 481 325 289 
+increasing radius 229
+current position x:186, y:129
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 270 510 376 316 
+increasing radius 229
+current position x:181, y:-7859
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 360 567 472 361 
+increasing radius 166
+current position x:230, y:-7910
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 250 569 416 267 
+increasing radius 161
+current position x:200, y:-7892
+hash to address 40 31102
+i1 and i2 250 569 416 267 
+increasing radius 161
+current position x:200, y:-7892
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 215 556 385 244 
+increasing radius 161
+current position x:185, y:-7881
+hash to address 40 31102
+i1 and i2 215 556 385 244 
+increasing radius 161
+current position x:185, y:-7881
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 360 567 472 361 
+increasing radius 161
+current position x:231, y:-7908
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 295 577 447 301 
+increasing radius 161
+current position x:216, y:-7902
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 215 556 385 244 
+increasing radius 155
+current position x:186, y:-7878
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 12735 493 -11795 493 
+increasing radius 161
+current position x:-3849, y:-7894
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 360 567 472 361 
+increasing radius 161
+current position x:231, y:-7908
+hash to address 219 -12901
+i1 and i2 360 567 472 361 
+increasing radius 161
+current position x:231, y:-7908
+hash to address 219 -12901
+i1 and i2 360 567 472 361 
+increasing radius 166
+current position x:230, y:-7910
+hash to address 40 31102
+i1 and i2 231 666 487 198 
+increasing radius 68
+current position x:235, y:-7964
+hash to address 40 31102
+i1 and i2 231 666 487 198 
+increasing radius 68
+current position x:235, y:-7964
+hash to address 40 31102
+i1 and i2 231 666 487 198 
+increasing radius 68
+current position x:235, y:-7964
+hash to address 40 31102
+i1 and i2 231 666 487 198 
+increasing radius 68
+current position x:235, y:-7964
+hash to address 40 31102
+i1 and i2 279 637 489 255 
+increasing radius 105
+current position x:236, y:-7945
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 221 588 417 232 
+increasing radius 138
+current position x:200, y:-7906
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 221 588 417 232 
+increasing radius 138
+current position x:200, y:-7906
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 293 531 407 323 
+increasing radius 211
+current position x:196, y:-7875
+hash to address 177 19316
+i1 and i2 254 523 380 295 
+increasing radius 211
+current position x:182, y:-7866
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 228 510 354 280 
+increasing radius 211
+current position x:170, y:-7855
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 228 510 354 280 
+increasing radius 206
+current position x:182, y:111
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 347 523 429 373 
+increasing radius 206
+current position x:210, y:-7878
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 293 531 407 323 
+increasing radius 206
+current position x:197, y:-7873
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 347 523 429 373 
+increasing radius 206
+current position x:210, y:-7878
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 347 523 429 373 
+increasing radius 206
+current position x:210, y:-7878
+hash to address 219 -12901
+i1 and i2 347 523 429 373 
+increasing radius 206
+current position x:210, y:-7878
+hash to address 219 -12901
+i1 and i2 347 523 429 373 
+increasing radius 206
+current position x:210, y:-7878
+hash to address 40 31102
+i1 and i2 295 577 447 301 
+increasing radius 161
+current position x:216, y:-7902
+hash to address 40 31102
+i1 and i2 295 577 447 301 
+increasing radius 161
+current position x:216, y:-7902
+hash to address 40 31102
+i1 and i2 323 551 439 337 
+increasing radius 185
+current position x:213, y:-7890
+hash to address 40 31102
+i1 and i2 323 551 439 337 
+increasing radius 185
+current position x:213, y:-7890
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 323 551 439 337 
+increasing radius 185
+current position x:213, y:-7890
+hash to address 40 31102
+i1 and i2 376 486 412 418 
+increasing radius 224
+current position x:204, y:-7863
+hash to address 219 -12901
+i1 and i2 376 486 412 418 
+increasing radius 224
+current position x:204, y:-7863
+hash to address 40 31102
+i1 and i2 12664 454 -11866 454 
+increasing radius 239
+current position x:-3888, y:-7851
+hash to address 177 19316
+hash to address 219 -12901
+i1 and i2 252 487 348 313 
+increasing radius 239
+current position x:180, y:122
+hash to address 40 31102
+i1 and i2 252 487 348 313 
+increasing radius 239
+current position x:180, y:122
+hash to address 219 -12901
+i1 and i2 252 487 348 313 
+increasing radius 239
+current position x:180, y:122
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 283 497 373 333 
+increasing radius 244
+current position x:180, y:-7854
+hash to address 40 31102
+i1 and i2 283 497 373 333 
+increasing radius 244
+current position x:180, y:-7854
+hash to address 219 -12901
+i1 and i2 283 497 373 333 
+increasing radius 239
+current position x:181, y:-7851
+hash to address 219 -12901
+i1 and i2 283 497 373 333 
+increasing radius 244
+current position x:180, y:-7854
+hash to address 40 31102
+i1 and i2 270 510 376 316 
+increasing radius 229
+current position x:181, y:-7859
+hash to address 40 31102
+i1 and i2 270 510 376 316 
+increasing radius 229
+current position x:181, y:-7859
+hash to address 219 -12901
+i1 and i2 270 510 376 316 
+increasing radius 224
+current position x:182, y:-7857
+hash to address 219 -12901
+hash to address 40 31102
+i1 and i2 270 510 376 316 
+increasing radius 229
+current position x:181, y:-7859
+hash to address 219 -12901
+hash to address 40 31102
+i1 and i2 270 510 376 316 
+increasing radius 224
+current position x:182, y:-7857
+hash to address 177 19316
+hash to address 219 -12901
+i1 and i2 204 461 300 287 
+increasing radius 224
+current position x:186, y:145
+hash to address 40 31102
+i1 and i2 204 461 300 287 
+increasing radius 224
+current position x:186, y:145
+hash to address 177 19316
+hash to address 219 -12901
+i1 and i2 312 513 402 349 
+increasing radius 224
+current position x:195, y:-7864
+hash to address 40 31102
+i1 and i2 221 588 417 232 
+increasing radius 133
+current position x:200, y:-7903
+hash to address 177 19316
+hash to address 219 -12901
+i1 and i2 189 572 385 214 
+increasing radius 133
+current position x:185, y:-7891
+hash to address 40 31102
+i1 and i2 189 572 385 214 
+increasing radius 133
+current position x:185, y:-7891
+hash to address 219 -12901
+i1 and i2 189 572 385 214 
+increasing radius 127
+current position x:186, y:-7888
+hash to address 177 19316
+i1 and i2 189 572 385 214 
+increasing radius 127
+current position x:186, y:-7888
+hash to address 177 19316
+hash to address 219 -12901
+i1 and i2 189 572 385 214 
+increasing radius 133
+current position x:185, y:-7891
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 189 572 385 214 
+increasing radius 133
+current position x:185, y:-7891
+hash to address 219 -12901
+i1 and i2 189 572 385 214 
+increasing radius 133
+current position x:185, y:-7891
+hash to address 40 31102
+i1 and i2 156 590 382 176 
+increasing radius 100
+current position x:184, y:-7904
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 156 590 382 176 
+increasing radius 100
+current position x:184, y:-7904
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 185 609 415 191 
+increasing radius 100
+current position x:200, y:-7917
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 270 510 376 316 
+increasing radius 224
+current position x:182, y:-7857
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 312 513 402 349 
+increasing radius 224
+current position x:195, y:-7864
+hash to address 40 31102
+i1 and i2 312 513 402 349 
+increasing radius 224
+current position x:195, y:-7864
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 270 510 376 316 
+increasing radius 224
+current position x:182, y:-7857
+hash to address 40 31102
+i1 and i2 270 510 376 316 
+increasing radius 224
+current position x:182, y:-7857
+hash to address 219 -12901
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 219 481 325 289 
+increasing radius 218
+current position x:194, y:136
+i1 and i2 219 481 325 289 
+increasing radius 218
+current position x:194, y:136
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 270 510 376 316 
+increasing radius 224
+current position x:182, y:-7857
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 270 510 376 316 
+increasing radius 224
+current position x:182, y:-7857
+hash to address 219 -12901
+i1 and i2 270 510 376 316 
+increasing radius 224
+current position x:182, y:-7857
+hash to address 219 -12901
+i1 and i2 270 510 376 316 
+increasing radius 224
+current position x:182, y:-7857
+hash to address 219 -12901
+i1 and i2 270 510 376 316 
+increasing radius 224
+current position x:182, y:-7857
+hash to address 219 -12901
+i1 and i2 270 510 376 316 
+increasing radius 218
+current position x:183, y:-7854
+hash to address 219 -12901
+i1 and i2 270 510 376 316 
+increasing radius 224
+current position x:182, y:-7857
+hash to address 40 31102
+i1 and i2 189 572 385 214 
+increasing radius 133
+current position x:185, y:-7891
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 189 572 385 214 
+increasing radius 133
+current position x:185, y:-7891
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 189 572 385 214 
+increasing radius 133
+current position x:185, y:-7891
+hash to address 177 19316
+i1 and i2 189 572 385 214 
+increasing radius 133
+current position x:185, y:-7891
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 221 588 417 232 
+increasing radius 133
+current position x:200, y:-7903
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 221 588 417 232 
+increasing radius 133
+current position x:200, y:-7903
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 312 513 402 349 
+increasing radius 224
+current position x:195, y:-7864
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 12822 541 -11708 541 
+increasing radius 224
+current position x:-3811, y:-7912
+hash to address 40 31102
+i1 and i2 466 572 534 448 
+increasing radius 100
+current position x:269, y:-7943
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 351 632 523 318 
+increasing radius 100
+current position x:256, y:-7952
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 185 609 415 191 
+increasing radius 94
+current position x:201, y:-7914
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 351 632 523 318 
+increasing radius 100
+current position x:256, y:-7952
+hash to address 219 -12901
+hash to address 177 19316
+i1 and i2 351 632 523 318 
+increasing radius 100
+current position x:256, y:-7952
+hash to address 219 -12901
+i1 and i2 351 632 523 318 
+increasing radius 100
+current position x:256, y:-7952
+hash to address 219 -12901
+i1 and i2 351 632 523 318 
+increasing radius 100
+current position x:256, y:-7952
+hash to address 219 -12901
+i1 and i2 351 632 523 318 
+increasing radius 100
+current position x:256, y:-7952
+hash to address 219 -12901
+i1 and i2 351 632 523 318 
+increasing radius 100
+current position x:256, y:-7952
+hash to address 219 -12901
+i1 and i2 351 632 523 318 
+increasing radius 100
+current position x:256, y:-7952
+hash to address 219 -12901
+i1 and i2 351 632 523 318 
+increasing radius 100
+current position x:256, y:-7952
+hash to address 219 -12901
+i1 and i2 351 632 523 318 
+increasing radius 100
+current position x:256, y:-7952
+hash to address 219 -12901
+i1 and i2 351 632 523 318 
+increasing radius 100
+current position x:256, y:-7952
+hash to address 219 -12901
+i1 and i2 351 632 523 318 
+increasing radius 100
+current position x:256, y:-7952
+hash to address 177 19316
+i1 and i2 156 590 382 176 
+increasing radius 100
+current position x:184, y:-7904
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 156 590 382 176 
+increasing radius 100
+current position x:184, y:-7904
+hash to address 177 19316
+i1 and i2 156 590 382 176 
+increasing radius 100
+current position x:184, y:-7904
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 111 545 321 163 
+increasing radius 100
+current position x:188, y:90
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 111 545 321 163 
+increasing radius 100
+current position x:188, y:90
+hash to address 177 19316
+hash to address 40 31102
+i1 and i2 219 481 325 289 
+increasing radius 224
+current position x:190, y:132

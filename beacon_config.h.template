@@ -1,0 +1,6 @@
+#ifndef __HOLDMYHAND_BEACON_NO_H__
+#define __HOLDMYHAND_BEACON_NO_H__
+
+#define BEACON_NO "4"
+
+#endif
